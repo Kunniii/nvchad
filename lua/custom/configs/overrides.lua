@@ -34,7 +34,8 @@ M.mason = {
     "deno",
     "prettier",
     "tailwindcss-language-server",
-    
+    "vue-language-server",
+
     -- c/cpp stuff
     "clangd",
     "clang-format",
