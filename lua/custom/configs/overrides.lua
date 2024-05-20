@@ -40,7 +40,7 @@ M.mason = {
 
     -- python stuff
     "isort",
-    "pylsp",
+    "pylyzer",
     "black",
     "pylint",
     "python-lsp-server",
